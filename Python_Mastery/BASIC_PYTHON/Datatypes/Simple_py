@@ -1,0 +1,18 @@
+# SIMPLE DATATYPES BY INITIALIZING THE Values
+# INTEGER, FLOAT, STRING, BOOLEAN
+
+# STRING DATATYPE
+Name = "Manikandan"
+print("String: ",Name)
+
+# INTEGER DATATYPE
+Age = 25
+print("Integer: ",Age)
+
+# FLOAT DATATYPE
+Salary = 15000.50
+print("Float: ",Salary)
+
+# BOOLEAN DATATYPE
+id = True
+print("Boolean: ",id)

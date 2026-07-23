@@ -1,0 +1,17 @@
+# COMPLEX DATATYPES - LIST, TUPLE, DICTIONARY, SETS
+
+# LIST COMPLEX DATATYPE
+lst = [1,2,3,4,5,6]
+print("LIST DATATYPE: ",lst)
+
+# TUPLE COMPLEX DATATYPE
+tup = (7,8,9,10,11,12)
+print("TUPLE DATATYPE: ",tup)
+
+# DICTIONARY COMPLEX DATATYPE
+dict = {1:"One",2:"Two",3:"Three",4:"Four"}
+print("DICTIONARY DATATYPE: ",dict)
+
+# SETS COMPLEX DATATYPE
+Sets = {1,2,3,4,5,6,7}
+print("SETS DATATYPE: ",Sets)
