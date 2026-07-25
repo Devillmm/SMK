@@ -10,7 +10,7 @@ Img = cv2.imread(r"C:\Users\ADMIN\Desktop\SMK\Python_AI\AI\OpenCV\Basic_Programs
 cv2.imshow("HULK",Img)
 
 # Write & Save the Image (Format Change)
-cv2.imwrite("Basic_programs\RWS\Output\Smash.png", Img)
+cv2.imwrite("C:\\Users\\ADMIN\\Desktop\\SMK\\Python_AI\\AI\\OpenCV\\Basic_programs\\RWS\\Output\\Smash.png", Img)
 
 # Wait Key - Key to Exit from Output (in ms)
 cv2.waitKey(5000) #5 seconds
