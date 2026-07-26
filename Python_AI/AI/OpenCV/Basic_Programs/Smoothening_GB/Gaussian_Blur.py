@@ -4,7 +4,7 @@
 import cv2
 
 # Read the Image from Local Directory
-Img = cv2.imread(r"C:\Users\ADMIN\Desktop\SMK\Python_AI\AI\OpenCV\Basic_Programs\Smoothening(GB)\SMK2.png")
+Img = cv2.imread(r"C:\Users\ADMIN\Desktop\SMK\Python_AI\AI\OpenCV\Basic_Programs\Smoothening_GB\SMK2.png")
 
 # Show / Display the Original Image
 cv2.imshow("Original_Image",Img)
@@ -22,7 +22,7 @@ cv2.imshow("GaussianBlur_Image1",gblr)
 # cv2.imshow("GaussianBlur_Image2",gblr1)
 
 # Write & Save the Gaussian Blur Image
-cv2.imwrite("Basic_Programs\Smoothening(GB)\Output\Smoothened_SMK.jpeg",gblr)
+cv2.imwrite("C:\\Users\\ADMIN\\Desktop\\SMK\\Python_AI\\AI\\OpenCV\\Basic_Programs\\Smoothening_GB\\Output\\Smoothened_SMK.jpeg",gblr)
 
 # Wait Key
 cv2.waitKey(10000)

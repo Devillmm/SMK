@@ -16,7 +16,7 @@ grayscale = cv2.cvtColor(O_Img,cv2.COLOR_BGR2GRAY)
 cv2.imshow("Grayscale Image",grayscale)
 
 # Write & Save the Grayscale Image
-cv2.imwrite("Basic_Programs\GrayScale\Output\Mark42.jpeg",grayscale)
+cv2.imwrite("C:\\Users\\ADMIN\\Desktop\\SMK\\Python_AI\\AI\\OpenCV\\Basic_Programs\\GrayScale\\Output\\Mark42.jpeg",grayscale)
 
 # Wait Key - Key to Exit from Output
 cv2.waitKey(10000)
