@@ -19,7 +19,7 @@ Resize = imutils.resize(Img,width=500)
 cv2.imshow("Resized Image",Resize)
 
 # Write & Save the Resized Image
-cv2.imwrite("Basic_Programs\Resize_Img\Output\Resized.jpg",Resize)
+cv2.imwrite("C:\\Users\\ADMIN\\Desktop\\SMK\\Python_AI\\AI\\OpenCV\\Basic_Programs\\Resize_Img\\Output\\Resized.jpg",Resize)
 
 # WaitKey & Destroy All Windows
 cv2.waitKey(5000)
